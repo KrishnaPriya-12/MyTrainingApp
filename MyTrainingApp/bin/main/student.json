@@ -1,0 +1,12 @@
+
+{
+"studentName":"Ramesh Kumar",
+"feedback":"good",
+"marks":95,
+"profile":{
+    "email":"ramesh@gmail.com",
+    "phone" : 9654144814,
+    "address": "ABC-New Delhi",
+    "cityName":"New Delhi"
+}
+}
